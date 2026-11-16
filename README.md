@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="./mavesso-logo.png" alt="MAVESSO Logo" width="500">
+</p>
 # MAVESSO.
 
 ### WordPress · Webdesign · Development

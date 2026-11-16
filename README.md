@@ -3,6 +3,8 @@
 <p align="center">
   <img src="./mavesso-banner-zugeschnitten.png" alt="MAVESSO Logo" width="700">
 </p>
+
+<h1>MAVESSO.</h1>
 # MAVESSO.
 
 ### WordPress · Webdesign · Development

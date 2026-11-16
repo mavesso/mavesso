@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./mavesso-banner.png" alt="MAVESSO Banner" width="700">
+  <img src="./mavesso-banner-zugeschnitten.png" alt="MAVESSO Logo" width="700">
 </p>
 # MAVESSO.
 

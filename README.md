@@ -1,7 +1,11 @@
 
-<p align="center">
-  <img src="./mavesso-logo.png" alt="MAVESSO Logo" width="500">
-</p>
+<table align="center">
+  <tr>
+    <td bgcolor="#0B0B10">
+      <img src="./mavesso-logo.png" alt="MAVESSO Logo" width="500">
+    </td>
+  </tr>
+</table>
 # MAVESSO.
 
 ### WordPress · Webdesign · Development
